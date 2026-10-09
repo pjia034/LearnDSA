@@ -1,0 +1,17 @@
+## --- .NET 核心生成缓存 ---
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## --- Visual Studio / Rider 临时文件 ---
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## --- 测试缓存与结果 ---
+TestResults/
+*.trx
